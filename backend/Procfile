@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT marco_parada_3932.wsgi:application
